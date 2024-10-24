@@ -1,0 +1,28 @@
+Resultado de la lectura:
+
+Código: p1
+Descripción: parafusos
+Precio: 3€
+	
+Código: p2
+Descripción: cravos
+Precio: 4€
+	
+Código: p3
+Descripción: tachas
+Precio: 5€
+	
+Resultado de la lectura:
+
+Código: p1
+Descripción: parafusos
+Precio: 3€
+	
+Código: p2
+Descripción: cravos
+Precio: 4€
+	
+Código: p3
+Descripción: tachas
+Precio: 5€
+	
